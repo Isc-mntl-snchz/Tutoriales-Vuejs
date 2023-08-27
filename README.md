@@ -42,4 +42,3 @@ Recuerda que estos ejemplos están diseñados para ayudarte a aprender y mejorar
 <div align="center">
 <img src="https://vuejs.org/images/logo.png" alt="Logo de Vue.js" width="100" height="100">
 </div>
-```
