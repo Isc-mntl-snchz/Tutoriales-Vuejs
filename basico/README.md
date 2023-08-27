@@ -2,6 +2,8 @@
 
 Este repositorio contiene una aplicación web simple de Lista de Tareas construida utilizando HTML, CSS y Vue.js 3. La aplicación permite a los usuarios agregar tareas a una lista, marcarlas como completadas y eliminar tareas que ya no necesitan.
 
+![Lista Tareas](miniatura.jpg)
+
 ### Características
 
 - Agrega nuevas tareas escribiendo en el campo de entrada y presionando "Enter".
